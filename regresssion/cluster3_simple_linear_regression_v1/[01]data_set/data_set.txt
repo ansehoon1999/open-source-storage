@@ -1,0 +1,3 @@
+https://github.com/krishnaik06/simple-Linear-Regression/blob/master/Salary_Data.csv
+
+에서 데이터자료를 다운로드 후 이 파일에 추가 후 실행

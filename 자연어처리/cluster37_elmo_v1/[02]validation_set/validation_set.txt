@@ -1,0 +1,3 @@
+스팸과 일반 메일이 포함된 데이터 셋
+
+https://raw.githubusercontent.com/mohitgupta-omg/Kaggle-SMS-Spam-Collection-Dataset-/master/spam.csv

@@ -1,0 +1,6 @@
+
+'from torchtext.legacy import data, datasets' 
+torchtext에 내장된 IMDB 데이터셋을 사용
+
+'trainset, valset = trainset.split(split_ratio=0.8)'
+기존의 데이터 셋에서 80%는 train dataset으로 20%는 test dataset으로 나눈다.

@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/ukairia777/tensorflow-nlp-tutorial/main/09.%20Word%20Embedding/dataset/ted_en-20160408.xml
+
+에서 다운로드 한 xml 형태의 영어 문단 데이터

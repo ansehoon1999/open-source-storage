@@ -1,0 +1,4 @@
+diabetes.csv
+
+download : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+

@@ -1,0 +1,7 @@
+
+코스피 시계열 데이터셋
+아래 링크에서 다운받기
+
+https://drive.google.com/file/d/1L-DXqRNV-qUX60mVJ0HsOcjX1RhoWkjC/view
+
+위 링크에서 test 데이터셋 나누기

@@ -1,0 +1,4 @@
+﻿winequality-red.scv
+
+download : https://archive.ics.uci.edu/ml/datasets/wine+quality
+or : https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009

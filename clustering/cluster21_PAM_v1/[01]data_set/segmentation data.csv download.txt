@@ -1,0 +1,3 @@
+﻿segmentation data.scv
+
+download : https://www.kaggle.com/dev0914sharma/customer-clustering?select=segmentation+data.csv

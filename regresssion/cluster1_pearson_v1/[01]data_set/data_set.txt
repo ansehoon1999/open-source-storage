@@ -1,0 +1,3 @@
+https://scikit-learn.org/stable/install.html
+
+Sklearn 내부에 있는 당뇨병환자 데이터를 사용하기 때문에 따로 data를 import할 필요가 없습니다.
